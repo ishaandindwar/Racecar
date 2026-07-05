@@ -71,8 +71,10 @@ correctly optimizing an objective it hadn't yet learned to solve properly.
 <h3>Demo of a failed scenario</h3>
 
 <p align="left">
-  <img src="C:\Users\Ishaan G Dindwar\OneDrive\Pictures\Screenshots\demo1.png" width="30%">
-  <img src="C:\Users\Ishaan G Dindwar\OneDrive\Pictures\Screenshots\demo2.png" width="30%">
+  <img src="https://github.com/user-attachments/assets/a6ce3ef1-6033-4049-a2fc-29f029398271"
+ width="30%">
+  <img src="https://github.com/user-attachments/assets/fc8ba6d3-db2c-4d06-bd0b-750e71e0f74a" 
+ width="30%">
 </p>
 
 
