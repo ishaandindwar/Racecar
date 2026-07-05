@@ -68,6 +68,12 @@ what you'd expect from ~1600-1700 steps of pure time penalty with zero
 tile progress — confirming this wasn't a training bug, it was the agent
 correctly optimizing an objective it hadn't yet learned to solve properly.
 
+<h3>Demo of a failed scenario</h3>
+
+<p align="left">
+  <img src="C:\Users\Ishaan G Dindwar\OneDrive\Pictures\Screenshots\demo1.png" width="30%">
+  <img src="C:\Users\Ishaan G Dindwar\OneDrive\Pictures\Screenshots\demo2.png" width="30%">
+</p>
 
 
 
