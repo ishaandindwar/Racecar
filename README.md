@@ -31,10 +31,10 @@ not just a different set of choices.
 | `train.py` | PPO training loop: parallel environments, action-repeat, State-Dependent Exploration, and an early-termination wrapper for stalled episodes. |
 | `play.py` | Loads a trained model and renders it driving. |
 
-## This week's focus: understanding *why*, not just running code
+## This projects focus: understanding *why*
 
-Following on from last week's RL fundamentals (the training loop, PPO vs.
-DQN vs. SAC, gymnasium/stable-baselines3 basics), this week went deeper
+Following on from RL fundamentals (the training loop, PPO vs.
+DQN vs. SAC, gymnasium/stable-baselines3 basics), I went deeper
 into diagnosing *why* a trained agent behaves the way it does, rather than
 just accepting a reward number at face value.
 
@@ -68,7 +68,7 @@ what you'd expect from ~1600-1700 steps of pure time penalty with zero
 tile progress — confirming this wasn't a training bug, it was the agent
 correctly optimizing an objective it hadn't yet learned to solve properly.
 
-<img width="1247" height="908" alt="Screenshot 2026-07-04 193607" src="https://github.com/user-attachments/assets/3c5ac971-e416-4999-9680-9fe1d80ffdbb" />
+
 
 
 Two real causes, both conceptual rather than "just add more compute":
